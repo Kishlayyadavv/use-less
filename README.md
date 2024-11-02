@@ -44,13 +44,14 @@ npm run dev
 For Software:
 
 ## Screenshots
-![Screenshot 1](./src/assets/sc1.png)
+![de46047c-62a9-42ed-a277-1c8a8534aeb8](https://github.com/user-attachments/assets/87368cff-7781-4dd0-bd7b-6d4678e89d97)
+
 *This screenshot shows the main interface of the Music player app.*
+![7a5feff1-cc2d-4f9b-8bbc-2caeb2414c14](https://github.com/user-attachments/assets/c33b0eb3-3920-461b-95d4-e9003239a92a)
 
-![Screenshot 2](./src/assets/sc2.png)
 *Here, users can select a song to have its lyrics read aloud.*
+![416e1840-5193-4454-9a93-8f5ef257dced](https://github.com/user-attachments/assets/ea7bebcf-b7fe-4269-991c-5df615515703)
 
-![Screenshot 3](./src/assets/sc3.png)
 *This image illustrates the additional control features and functionalities.*
 
 ### Project Demo
