@@ -8,51 +8,51 @@
 
 
 ### Team Members
-- Team Lead: [Keerthana T P] - [College of Engineering Trivandrum]
-- Member 2: [Kishlay Yadav] - [College of Engineering Trivandrum]
+- Team Lead: Keerthana T P - College of Engineering Trivandrum
+- Member 2: Kishlay Yadav - College of Engineering Trivandrum
 
 
 ### Project Description
-[A music player app with a twist..it allows you to appreciate the lyrics in a new way]
+A music player app with a twist..it allows you to appreciate the lyrics in a new way
 
 ### The Problem (that doesn't exist)
-[Are you tired of music overshadowing the poetic beauty of song lyrics? Do you find it hard to focus on the words while a catchy tune plays in the background? This app solves a problem that no one really had!]
+Are you tired of music overshadowing the poetic beauty of song lyrics? Do you find it hard to focus on the words while a catchy tune plays in the background? This app solves a problem that no one really had!
 
 ### The Solution (that nobody asked for)
-[Our solution? A music player that doesn’t play music! Instead, it offers a mesmerizing mechanical read-aloud of lyrics, like karaoke without the karaoke!]
+Our solution? A music player that doesn’t play music! Instead, it offers a mesmerizing mechanical read-aloud of lyrics, like karaoke without the karaoke!
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [JavaScript, HTML, CSS]
-- [NextJS]
-- [Axios, SpeechSynthesis API]
-- [Visual Studio Code, GitHub]
+- JavaScript, HTML, CSS
+- NextJS
+- SpeechSynthesis API
+- Visual Studio Code, GitHub
 
 
 
 ### Implementation
 For Software:
 # Installation
-[git clone https://github.com/Kishlayyadavv/use-less
-npm install]
+git clone https://github.com/Kishlayyadavv/use-less
+npm install
 
 # Run
-[npm run dev]
+npm run dev
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+## Screenshots
+![Screenshot 1](./public/sc.png)
+*This screenshot shows the main interface of the Mechanical Lyric Reader app.*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 2](./public/sc2.png)
+*Here, users can select a song to have its lyrics read aloud.*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
+![Screenshot 3](./public/sc3.png)
+*This image illustrates the playback controls for adjusting speed and volume.*
 
 
 
