@@ -43,19 +43,15 @@ npm run dev
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
 ## Screenshots
-![Screenshot 1](./public/sc.png)
-*This screenshot shows the main interface of the Mechanical Lyric Reader app.*
+![Screenshot 1](./src/assets/sc1.png)
+*This screenshot shows the main interface of the Music player app.*
 
-![Screenshot 2](./public/sc2.png)
+![Screenshot 2](./src/assets/sc2.png)
 *Here, users can select a song to have its lyrics read aloud.*
 
-![Screenshot 3](./public/sc3.png)
-*This image illustrates the playback controls for adjusting speed and volume.*
-
-
-
+![Screenshot 3](./src/assets/sc3.png)
+*This image illustrates the additional control features and functionalities.*
 
 ### Project Demo
 # Video
