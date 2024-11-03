@@ -1,5 +1,7 @@
 import React from "react";
 import logoWhite from "../../assets/logoWhite.png";
+import syncsoulblack from "../../assets/syncsoulblack.png";
+import syncsoulblue from "../../assets/syncsoulblue.png";
 import Languages from "./Languages";
 import Favourites from "./Favourites";
 import { FaGithub } from "react-icons/fa";
@@ -25,15 +27,15 @@ const Sidebar = ({ showNav, setShowNav }) => {
             onClick={() => setShowNav(false)}
             className=" mx-4 text-2xl lg:text-3xl my-auto text-white cursor-pointer"
           />
-          <div className=" flex justify-center items-center">
+          <div className="py-2 lg:py-4 aspect-auto w-auto h-auto bg-[#010713]">
             <Link href="/">
               <Image
                 onClick={() => {
                   dispatch(setProgress(100));
                 }}
-                src={logoWhite}
+                src={syncsoulblack}
                 alt="logo"
-                className=" lg:py-2  aspect-video w-[139px] h-[31px] lg:h-[62px] lg:w-[190px]"
+                className="w-[150px] lg:w-[200px] h-auto "
               />
             </Link>
           </div>
