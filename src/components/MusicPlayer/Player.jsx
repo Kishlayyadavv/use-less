@@ -1,6 +1,7 @@
 import React, { useRef, useEffect,useState } from "react";
 
 const Player = ({
+  volume,
   activeSong,
   isPlaying,
   volume,
@@ -44,7 +45,7 @@ const Player = ({
       if (isPlaying && lyrics) {
         const utterance = new SpeechSynthesisUtterance(lyrics);
         utterance.lang = "en-US";
-        utterance.rate = 1;
+        utterance.rate = volume;
         utterance.pitch = 1;
         window.speechSynthesis.speak(utterance);
   
