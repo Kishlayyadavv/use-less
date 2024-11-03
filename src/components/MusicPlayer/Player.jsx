@@ -1,7 +1,6 @@
 import React, { useRef, useEffect,useState } from "react";
 
 const Player = ({
-  volume,
   activeSong,
   isPlaying,
   volume,
